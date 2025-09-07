@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+.env/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.cache/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Test output
+junit.xml
+
+# PyInstaller
+*.manifest
+*.spec
+
+# mypy
+.mypy_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject/
+
+# mkdocs documentation
+/site
+
+# PyCharm
+.idea/
+*.iml
+
+# Local history
+.localhistory/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Thumbnails
+._*
+
+# Pyre type checker
+.pyre/
